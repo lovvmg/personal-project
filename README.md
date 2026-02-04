@@ -1,6 +1,8 @@
 # personal-project
 jejak digital selama belajar python, ds,ml (biar gak ilang ajahh). 
+
 tools : pakai google colab dan python (VS Code) 
+
 dataset : ambil dari kaggle 
 
 isi :
